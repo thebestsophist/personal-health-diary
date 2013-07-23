@@ -22,3 +22,42 @@
 [submodule "extensions/xssfilter"]
 	path = extensions/xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/thebestsophist/workspace.git
+[submodule "extensions/datetime"]
+	path = extensions/datetime
+	url = git://github.com/hananils/datetime.git
+[submodule "extensions/url_router"]
+	path = extensions/url_router
+	url = git://github.com/symphonists/url_router.git
+[submodule "extensions/rest_api"]
+	path = extensions/rest_api
+	url = git://github.com/nickdunn/rest_api.git
+[submodule "extensions/timefield"]
+	path = extensions/timefield
+	url = git://github.com/symphonists/timefield.git
+[submodule "extensions/numberfield"]
+	path = extensions/numberfield
+	url = git://github.com/symphonycms/numberfield.git
+[submodule "extensions/globalresourceloader"]
+	path = extensions/globalresourceloader
+	url = git://github.com/symphonists/globalresourceloader.git
+[submodule "extensions/documenter"]
+	path = extensions/documenter
+	url = git://github.com/symphonists/documenter.git
+[submodule "extensions/useragent_details"]
+	path = extensions/useragent_details
+	url = https://github.com/thebestsophist/useragent_details.git
+[submodule "extensions/maplocationfield"]
+	path = extensions/maplocationfield
+	url = git://github.com/nickdunn/maplocationfield.git
+[submodule "extensions/publish_tabs"]
+	path = extensions/publish_tabs
+	url = git://github.com/nickdunn/publish_tabs.git
+[submodule "extensions/members"]
+	path = extensions/members
+	url = git://github.com/symphonycms/members.git
+[submodule "extensions/apipage"]
+	path = extensions/apipage
+	url = git://github.com/iwyg/apipage.git
