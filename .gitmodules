@@ -31,9 +31,6 @@
 [submodule "extensions/url_router"]
 	path = extensions/url_router
 	url = git://github.com/symphonists/url_router.git
-[submodule "extensions/rest_api"]
-	path = extensions/rest_api
-	url = git://github.com/nickdunn/rest_api.git
 [submodule "extensions/timefield"]
 	path = extensions/timefield
 	url = git://github.com/symphonists/timefield.git
@@ -61,3 +58,6 @@
 [submodule "extensions/apipage"]
 	path = extensions/apipage
 	url = git://github.com/iwyg/apipage.git
+[submodule "extensions/canofspam"]
+	path = extensions/canofspam
+	url = git://github.com/symphonists/canofspam.git
