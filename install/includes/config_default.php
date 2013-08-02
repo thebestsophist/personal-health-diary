@@ -50,7 +50,7 @@
 
 		###### GENERAL ######
 		'general' => array(
-			'sitename' => 'Health Diary - dev',
+			'sitename' => 'Personal Health Diary',
 		),
 		########
 

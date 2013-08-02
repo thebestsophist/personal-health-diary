@@ -30,7 +30,7 @@ CREATE TABLE`tbl_cache` (
   PRIMARY KEY (`id`),
   KEY `expiry` (`expiry`),
   KEY `hash` (`hash`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- *** STRUCTURE: `sym_documentation` ***
 DROP TABLE IF EXISTS`tbl_documentation`;
