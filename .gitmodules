@@ -40,9 +40,6 @@
 [submodule "extensions/documenter"]
 	path = extensions/documenter
 	url = git://github.com/symphonists/documenter.git
-[submodule "extensions/useragent_details"]
-	path = extensions/useragent_details
-	url = https://github.com/thebestsophist/useragent_details.git
 [submodule "extensions/maplocationfield"]
 	path = extensions/maplocationfield
 	url = git://github.com/nickdunn/maplocationfield.git
@@ -58,6 +55,3 @@
 [submodule "extensions/canofspam"]
 	path = extensions/canofspam
 	url = git://github.com/symphonists/canofspam.git
-[submodule "workspace"]
-	path = workspace
-	url = git@bitbucket.org:thebestsophist/health-diary-workspace.git
