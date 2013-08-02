@@ -61,3 +61,6 @@
 [submodule "extensions/canofspam"]
 	path = extensions/canofspam
 	url = git://github.com/symphonists/canofspam.git
+[submodule "extensions/save_and_return"]
+	path = extensions/save_and_return
+	url = git://github.com/Solutions-Nitriques/save_and_return.git

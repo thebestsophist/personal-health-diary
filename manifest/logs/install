@@ -1,0 +1,41 @@
+============================================
+Log Created: 2013-06-28T11:42:28-05:00
+============================================
+Symphony Log
+Opened:  2013-06-28T11:42:28-05:00
+Version: 2.3.2
+Domain:  projects.enguin.com/health-diary
+--------------------------------------------
+06/28/2013 11:44 am > Error: Installer - Wrong configuration.
+06/28/2013 11:44 am > Error: Configuration - Database ‘dbd_health-dairy’ not found.
+06/28/2013 11:44 am > Error: Configuration - No username entered.
+06/28/2013 11:44 am > Error: Configuration - No password entered.
+06/28/2013 11:44 am > Error: Configuration - Did not enter First and Last names.
+06/28/2013 11:44 am > Error: Configuration - Invalid email address supplied.
+06/28/2013 11:45 am > Error: Installer - Wrong configuration.
+06/28/2013 11:45 am > Error: Configuration - No username entered.
+06/28/2013 11:45 am > Error: Configuration - No password entered.
+06/28/2013 11:45 am > Error: Configuration - Did not enter First and Last names.
+06/28/2013 11:45 am > Error: Configuration - Invalid email address supplied.
+
+============================================
+INSTALLATION PROCESS STARTED (2013-06-28T11:46:12-05:00)
+============================================
+06/28/2013 11:46 am > Notice: MYSQL: Establishing Connection
+06/28/2013 11:46 am > Notice: MYSQL: Importing Table Schema
+06/28/2013 11:46 am > Notice: MYSQL: Creating Default Author
+06/28/2013 11:46 am > Notice: WRITING: Creating ‘manifest’ folder (/manifest)
+06/28/2013 11:46 am > Notice: WRITING: Creating ‘logs’ folder (/manifest/logs)
+06/28/2013 11:46 am > Notice: WRITING: Creating ‘cache’ folder (/manifest/cache)
+06/28/2013 11:46 am > Notice: WRITING: Creating ‘tmp’ folder (/manifest/tmp)
+06/28/2013 11:46 am > Notice: WRITING: Configuration File
+06/28/2013 11:46 am > Notice: CONFIGURING: Frontend
+06/28/2013 11:46 am > Notice: An existing ‘workspace’ directory was found at this location. Symphony will use this workspace.
+06/28/2013 11:46 am > Notice: MYSQL: Importing Workspace Data...
+06/28/2013 11:46 am > Notice: CONFIGURING: Installing existing extensions
+============================================
+INSTALLATION COMPLETED: Execution Time - 1 sec (28.06.13 11:46:13)
+============================================
+
+
+
