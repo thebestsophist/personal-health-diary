@@ -58,3 +58,6 @@
 [submodule "extensions/useragent_details"]
 	path = extensions/useragent_details
 	url = https://github.com/thebestsophist/useragent_details.git
+[submodule "workspace"]
+	path = workspace
+	url = git@bitbucket.org:thebestsophist/health-diary-workspace.git
