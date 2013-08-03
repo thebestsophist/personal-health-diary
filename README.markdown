@@ -44,7 +44,7 @@ Before installation, see the [notes on file permissions](#file-permissions).
 
 1. Clone the git repository to the location you desire using:
 
-		git clone git://github.com/symphonycms/symphony-2.git
+		git clone https://github.com/thebestsophist/personal-health-diary.git
 
 1. Run the following command to ensure the submodules are cloned:
 
