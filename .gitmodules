@@ -60,4 +60,4 @@
 	url = https://github.com/thebestsophist/useragent_details.git
 [submodule "workspace"]
 	path = workspace
-	url = git@bitbucket.org:thebestsophist/health-diary-workspace.git
+	url = https://github.com/thebestsophist/health-diary-workspace.git
