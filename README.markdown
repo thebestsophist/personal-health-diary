@@ -8,11 +8,10 @@
 * [Overview](#overview)
 * [Server requirements](#server-requirements)
 * [Installing](#installing)
-	* [Via Git](#via-git)
-	* [File permissions](#file-permissions)
 * [Updating from an older version](#updating-from-an-older-version)
 	* [Updating via Git](#updating-via-git)
-
+* [Development notes](#development-notes)
+	* [Roadmap](#roadmap)
 
 ## Overview
 
@@ -34,7 +33,7 @@ Visit [the Symphony website](http://getsymphony.com/), [the forum](http://getsym
 - PHP’s built in `json` functions, which are enabled by default in PHP 5.2 and above; if they are missing, ensure PHP wasn’t compiled with `--disable-json`
 - (Optional, but recommended) SSL for HTTPS.
 
-## Installing and setting up
+## Installing
 
 The install process comes in two mains parts: installing Symphony and setting up the health diary.
 
@@ -107,35 +106,35 @@ All the page files are in `workspace/pages` and include comments describing thei
 
 ### Roadmap
 
-#### v0.2
+#### Version 0.2
 - Update documentation with full install instructions and implemented features.
 - First draft of API schema
 - Color schemes for various forms of colorblindness.
 - Visual cues and contrast animations to improve usability for colorblind users.
 
-#### v0.3
+#### Version 0.3
 - Print stylesheets so you can print out part of your diaries to take to the doctor
-- More styles and fleshed out view/ pages.
+- More styles and fleshed out `view/` pages.
 - WIA-ARIA love
 
-#### v0.4
+#### Version 0.4
 - Importing from older versions. (There will be no breaking updates between 0.1 and 0.4, so `git pull` will be our friend.)
 - Home screen icon
 
-#### v 0.5
+#### Version 0.5
 - Finalize Read API Schema v1
 - Doctor log-in credentials, so they can also access the visualizations. (This will likely require updates to the database that are not covered in a `git pull` so it will include step-by-step documentation for upgrading)
 
-#### v0.6
+#### Version 0.6
 - More interactive visualizations for exploration (going beyond static visualizations)
 
-#### v 0.7
+#### Version 0.7
 - Better way to deal with user local time (currently xslt transformations completely depends on server time)
 
-#### v0.8
+#### Version 0.8
 - Cross-user comparison and visualizations
 
-### After Version 1.0
+#### After Version 1.0
 - Data visualization comparisons across users.
 - Import data from third-party services such as FitBit and JawBone Up.
 - Import basic weather data 
