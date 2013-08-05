@@ -99,7 +99,6 @@ To recursively chmod files only:
 
 1. Go to `http://example.com/install/` to complete the update process.
 
-
 ## Development Notes
 
 All the page files are in `workspace/pages` and include comments describing their intended functionality.
