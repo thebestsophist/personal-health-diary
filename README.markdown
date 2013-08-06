@@ -1,17 +1,7 @@
 # Personal Health Diary
 
-- Health Diary Version 0.1a
-- Symphony Version: 2.3.2
-
-## Contents
-
-* [Overview](#overview)
-* [Server requirements](#server-requirements)
-* [Installing](#installing)
-* [Updating from an older version](#updating-from-an-older-version)
-	* [Updating via Git](#updating-via-git)
-* [Development notes](#development-notes)
-	* [Roadmap](#roadmap)
+- Health Diary Version 0.2a
+- Symphony Version: 2.3.3
 
 ## Overview
 
