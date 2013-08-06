@@ -1,6 +1,6 @@
 # Personal Health Diary
 
-- Health Diary Version 0.2a
+- Health Diary Version 0.1
 - Symphony Version: 2.3.3
 
 ## Overview
